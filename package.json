@@ -1,0 +1,17 @@
+{
+  "name": "mic_webstream_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "get-user-media-promise": "^1.1.1",
+    "http": "0.0.0",
+    "microphone-stream": "^3.0.6",
+    "websocket-stream": "^3.3.3"
+  }
+}
